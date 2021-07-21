@@ -1,4 +1,4 @@
-# Vert.x Kotlin Example
+# Vert.x Kotlin REST API
 
 Basic JSON API written in [Kotlin](https://kotlinlang.org/) to demonstrate how it can be used with Vert.x.
 
